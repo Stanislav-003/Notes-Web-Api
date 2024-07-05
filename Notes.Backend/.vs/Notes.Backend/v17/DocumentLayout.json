@@ -1,0 +1,918 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.backend\\notes.webapi\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.backend\\notes.webapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\models\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\models\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.backend\\notes.webapi\\notes.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\notes.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.backend\\notes.tests\\common\\querytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\common\\querytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.backend\\notes.tests\\notes\\queries\\getnotedetailsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\notes\\queries\\getnotedetailsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.backend\\notes.tests\\notes\\queries\\getnotelistqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\notes\\queries\\getnotelistqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.tests\\common\\notescontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\common\\notescontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.tests\\common\\testcommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\common\\testcommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotelist\\getnotelistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\getnotelistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.tests\\notes\\commands\\updatenotecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\notes\\commands\\updatenotecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\updatenote\\updatenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\updatenote\\updatenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.tests\\notes\\commands\\deletenotecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\notes\\commands\\deletenotecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.tests\\notes\\commands\\createnotecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B305B9CD-EA75-46A6-9146-C61B03DFDBE6}|Notes.Tests\\Notes.Tests.csproj|solutionrelative:notes.tests\\notes\\commands\\createnotecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\models\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\models\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.persistence\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.persistence\\entitytypeconfiguration\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\entitytypeconfiguration\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\interfaces\\inotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\middleware\\customexceptionhandlermiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\middleware\\customexceptionhandlermiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\middleware\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\middleware\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\createnote\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\createnote\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\createnote\\createnotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\createnote\\createnotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotelist\\getnotelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\getnotelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotedetails\\getnotedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\getnotedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotedetails\\getnotedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\getnotedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotelist\\getnotelistqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\getnotelistqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotelist\\notelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\notelistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotelist\\notelookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotelist\\notelookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotedetails\\notedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\notedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\updatenote\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\updatenote\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\queries\\getnotedetails\\getnotedetailsgueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\queries\\getnotedetails\\getnotedetailsgueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D869E59-C229-45B6-9642-F1D2D50FBDAE}|Notes.Domain\\Notes.Domain.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D869E59-C229-45B6-9642-F1D2D50FBDAE}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\createnote\\createnotecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\createnote\\createnotecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54FCD8C9-0EF0-4AF4-8E88-D8459D93A609}|Notes.WebApi\\Notes.WebApi.csproj|solutionrelative:notes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\deletecommand\\deletenotecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\deletecommand\\deletenotecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\updatenote\\updatenotecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\updatenote\\updatenotecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB7041F-69DD-45E2-8951-1E0538C211F7}|Notes.Persistence\\Notes.Persistence.csproj|solutionrelative:notes.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D869E59-C229-45B6-9642-F1D2D50FBDAE}|Notes.Domain\\Notes.Domain.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D869E59-C229-45B6-9642-F1D2D50FBDAE}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\deletecommand\\deletenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\deletecommand\\deletenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.application\\notes\\commands\\deletecommand\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3777C9ED-8AF8-4F40-ACC0-EC4A6EFB2AB4}|Notes.Application\\Notes.Application.csproj|solutionrelative:notes.application\\notes\\commands\\deletecommand\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D869E59-C229-45B6-9642-F1D2D50FBDAE}|Notes.Domain\\Notes.Domain.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\notes.domain\\notes.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D869E59-C229-45B6-9642-F1D2D50FBDAE}|Notes.Domain\\Notes.Domain.csproj|solutionrelative:notes.domain\\notes.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "Notes.WebApi\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:55:53.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestCommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Common\\TestCommandBase.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Common\\TestCommandBase.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Common\\TestCommandBase.cs",
+              "RelativeToolTip": "Notes.Tests\\Common\\TestCommandBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:21:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotesContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Common\\NotesContextFactory.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Common\\NotesContextFactory.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Common\\NotesContextFactory.cs",
+              "RelativeToolTip": "Notes.Tests\\Common\\NotesContextFactory.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:25:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Startup.cs",
+              "RelativeToolTip": "Notes.WebApi\\Startup.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:35:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Notes.WebApi\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:27:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Models\\CreateNoteDto.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Models\\CreateNoteDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Models\\CreateNoteDto.cs",
+              "RelativeToolTip": "Notes.WebApi\\Models\\CreateNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:41:36.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Program.cs",
+              "RelativeToolTip": "Notes.WebApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:16:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notes.WebApi",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Notes.WebApi.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+              "RelativeToolTip": "Notes.WebApi\\Notes.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T17:06:54.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetNoteListQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Queries\\GetNoteListQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Notes\\Queries\\GetNoteListQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Queries\\GetNoteListQueryHandlerTests.cs",
+              "RelativeToolTip": "Notes.Tests\\Notes\\Queries\\GetNoteListQueryHandlerTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:40:59.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryTestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Common\\QueryTestFixture.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Common\\QueryTestFixture.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Common\\QueryTestFixture.cs",
+              "RelativeToolTip": "Notes.Tests\\Common\\QueryTestFixture.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:44:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetNoteDetailsQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Queries\\GetNoteDetailsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Notes\\Queries\\GetNoteDetailsQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Queries\\GetNoteDetailsQueryHandlerTests.cs",
+              "RelativeToolTip": "Notes.Tests\\Notes\\Queries\\GetNoteDetailsQueryHandlerTests.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:00:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateNoteCommandHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Commands\\UpdateNoteCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Notes\\Commands\\UpdateNoteCommandHandlerTest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Commands\\UpdateNoteCommandHandlerTest.cs",
+              "RelativeToolTip": "Notes.Tests\\Notes\\Commands\\UpdateNoteCommandHandlerTest.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:26:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetNoteListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:27:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateNoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:19:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteNoteCommandHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Commands\\DeleteNoteCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Notes\\Commands\\DeleteNoteCommandHandlerTest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Commands\\DeleteNoteCommandHandlerTest.cs",
+              "RelativeToolTip": "Notes.Tests\\Notes\\Commands\\DeleteNoteCommandHandlerTest.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:35:38.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateNoteCommandHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Commands\\CreateNoteCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "Notes.Tests\\Notes\\Commands\\CreateNoteCommandHandlerTest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Tests\\Notes\\Commands\\CreateNoteCommandHandlerTest.cs",
+              "RelativeToolTip": "Notes.Tests\\Notes\\Commands\\CreateNoteCommandHandlerTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:25:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Models\\UpdateNoteDto.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Models\\UpdateNoteDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Models\\UpdateNoteDto.cs",
+              "RelativeToolTip": "Notes.WebApi\\Models\\UpdateNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:56:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:01:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "Notes.Persistence\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:33:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\DbInitializer.cs",
+              "RelativeToolTip": "Notes.Persistence\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:25:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\NotesDbContext.cs",
+              "RelativeToolTip": "Notes.Persistence\\NotesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:09:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NoteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\EntityTypeConfiguration\\NoteConfiguration.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\EntityTypeConfiguration\\NoteConfiguration.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\EntityTypeConfiguration\\NoteConfiguration.cs",
+              "RelativeToolTip": "Notes.Persistence\\EntityTypeConfiguration\\NoteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:56:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "RelativeToolTip": "Notes.Application\\Interfaces\\INotesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:04:46.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomExceptionHandlerMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddlewareExtensions.cs",
+              "RelativeToolTip": "Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:50:06.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "Notes.WebApi\\Middleware\\CustomExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:30:34.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:52:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateNoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:55:12.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetNoteListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:26:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Notes.WebApi\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:17:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetNoteDetailsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:50:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetNoteDetailsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:01:46.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetNoteListQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryValidator.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryValidator.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryValidator.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\GetNoteListQueryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:41:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NoteListVm.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteListVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:13.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NoteLookupDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteList\\NoteLookupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:20:14.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NoteDetailsVm.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\NoteDetailsVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:52:38.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:16:20.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Notes.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:00:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetNoteDetailsGueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsGueryValidator.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsGueryValidator.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsGueryValidator.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Queries\\GetNoteDetails\\GetNoteDetailsGueryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:38:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Domain\\Note.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Note.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Domain\\Note.cs",
+              "RelativeToolTip": "Notes.Domain\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:08:18.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateNoteCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandValidator.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandValidator.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandValidator.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\CreateNote\\CreateNoteCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:26:03.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IMapWith.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Mappings\\IMapWith.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:35:29.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:26:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Notes.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:46:42.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Notes.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.WebApi\\appsettings.json",
+              "RelativeToolTip": "Notes.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T15:38:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeleteNoteCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandValidator.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandValidator.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandValidator.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:36:11.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateNoteCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandValidator.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandValidator.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandValidator.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\UpdateNote\\UpdateNoteCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:32:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "Notes.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Persistence\\Class1.cs",
+              "RelativeToolTip": "Notes.Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:10:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Domain\\Class1.cs",
+              "RelativeToolTip": "Notes.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:10:12.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Class1.cs",
+              "RelativeToolTip": "Notes.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:59:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DeleteNoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandHandler.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:53:13.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeleteNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommand.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\Notes\\Commands\\DeleteCommand\\DeleteNoteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:51:15.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Notes.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+              "RelativeDocumentMoniker": "Notes.Domain\\Notes.Domain.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+              "RelativeToolTip": "Notes.Domain\\Notes.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T09:41:40.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

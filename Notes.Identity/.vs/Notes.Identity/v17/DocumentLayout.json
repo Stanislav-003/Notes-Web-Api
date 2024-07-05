@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|c:\\users\\sever\\desktop\\itvdn hw\\notes\\notes.identity\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\controlles\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:controlles\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\data\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:data\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\notes.identity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:notes.identity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{357BA361-F13B-4129-8422-6D66C14E7848}|Notes.Identity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Controlles\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controlles\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Controlles\\AuthController.cs",
+              "RelativeToolTip": "Controlles\\AuthController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:53:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Data\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Data\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Data\\AppUserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:35:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:28:20.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:27:57.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:34:21.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwFEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:34:16.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:01:08.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:14:43.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:03:24.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:55:46.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:33:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:43:05.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notes.Identity",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Notes.Identity.csproj",
+              "RelativeDocumentMoniker": "Notes.Identity.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Notes.Identity.csproj",
+              "RelativeToolTip": "Notes.Identity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T13:06:09.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T13:06:54.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Styles\\app.css",
+              "RelativeDocumentMoniker": "Styles\\app.css",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Styles\\app.css",
+              "RelativeToolTip": "Styles\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T11:12:44.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:02:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Notes\\Notes.Identity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T09:21:27.425Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
